@@ -1,8 +1,8 @@
 """
 Dashboard do PI IV: requisitos em vagas de desenvolvimento no Brasil (2021–2026).
 
-Rodar localmente:
-    python -m streamlit run app.py
+Rodar localmente, da raiz do repositório (como no Streamlit Cloud, que lê .streamlit/ da raiz):
+    python -m streamlit run dashboard/app.py
 """
 from pathlib import Path
 
