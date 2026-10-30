@@ -1,0 +1,5 @@
+# Base completa: grande e com o texto dos anúncios. Só o dados_dashboard.csv.gz vai para o GitHub.
+vagas*.csv
+cache_*.jsonl
+__pycache__/
+.venv/
