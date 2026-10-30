@@ -1,0 +1,16 @@
+# Dados gerados pelos scripts
+*.csv
+*.jsonl
+*.zip
+coleta_estado.json
+tabelas_analise/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Ambiente
+.env
